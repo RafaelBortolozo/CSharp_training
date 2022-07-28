@@ -1,0 +1,13 @@
+C:\Users\rafae\Desktop\CSharp_training\Coins\bin\Debug\netcoreapp3.1\Coins.exe
+C:\Users\rafae\Desktop\CSharp_training\Coins\bin\Debug\netcoreapp3.1\Coins.deps.json
+C:\Users\rafae\Desktop\CSharp_training\Coins\bin\Debug\netcoreapp3.1\Coins.runtimeconfig.json
+C:\Users\rafae\Desktop\CSharp_training\Coins\bin\Debug\netcoreapp3.1\Coins.runtimeconfig.dev.json
+C:\Users\rafae\Desktop\CSharp_training\Coins\bin\Debug\netcoreapp3.1\Coins.dll
+C:\Users\rafae\Desktop\CSharp_training\Coins\bin\Debug\netcoreapp3.1\Coins.pdb
+C:\Users\rafae\Desktop\CSharp_training\Coins\obj\Debug\netcoreapp3.1\Coins.csprojAssemblyReference.cache
+C:\Users\rafae\Desktop\CSharp_training\Coins\obj\Debug\netcoreapp3.1\Coins.AssemblyInfoInputs.cache
+C:\Users\rafae\Desktop\CSharp_training\Coins\obj\Debug\netcoreapp3.1\Coins.AssemblyInfo.cs
+C:\Users\rafae\Desktop\CSharp_training\Coins\obj\Debug\netcoreapp3.1\Coins.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\CSharp_training\Coins\obj\Debug\netcoreapp3.1\Coins.dll
+C:\Users\rafae\Desktop\CSharp_training\Coins\obj\Debug\netcoreapp3.1\Coins.pdb
+C:\Users\rafae\Desktop\CSharp_training\Coins\obj\Debug\netcoreapp3.1\Coins.genruntimeconfig.cache
