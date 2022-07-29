@@ -1,0 +1,13 @@
+C:\Users\rafae\Desktop\CSharp_training\Dates\bin\Debug\netcoreapp3.1\Dates.exe
+C:\Users\rafae\Desktop\CSharp_training\Dates\bin\Debug\netcoreapp3.1\Dates.deps.json
+C:\Users\rafae\Desktop\CSharp_training\Dates\bin\Debug\netcoreapp3.1\Dates.runtimeconfig.json
+C:\Users\rafae\Desktop\CSharp_training\Dates\bin\Debug\netcoreapp3.1\Dates.runtimeconfig.dev.json
+C:\Users\rafae\Desktop\CSharp_training\Dates\bin\Debug\netcoreapp3.1\Dates.dll
+C:\Users\rafae\Desktop\CSharp_training\Dates\bin\Debug\netcoreapp3.1\Dates.pdb
+C:\Users\rafae\Desktop\CSharp_training\Dates\obj\Debug\netcoreapp3.1\Dates.csprojAssemblyReference.cache
+C:\Users\rafae\Desktop\CSharp_training\Dates\obj\Debug\netcoreapp3.1\Dates.AssemblyInfoInputs.cache
+C:\Users\rafae\Desktop\CSharp_training\Dates\obj\Debug\netcoreapp3.1\Dates.AssemblyInfo.cs
+C:\Users\rafae\Desktop\CSharp_training\Dates\obj\Debug\netcoreapp3.1\Dates.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\CSharp_training\Dates\obj\Debug\netcoreapp3.1\Dates.dll
+C:\Users\rafae\Desktop\CSharp_training\Dates\obj\Debug\netcoreapp3.1\Dates.pdb
+C:\Users\rafae\Desktop\CSharp_training\Dates\obj\Debug\netcoreapp3.1\Dates.genruntimeconfig.cache

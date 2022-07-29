@@ -1,0 +1,13 @@
+C:\Users\rafae\Desktop\CSharp_training\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\rafae\Desktop\CSharp_training\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\rafae\Desktop\CSharp_training\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\rafae\Desktop\CSharp_training\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\rafae\Desktop\CSharp_training\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\rafae\Desktop\CSharp_training\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\rafae\Desktop\CSharp_training\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Users\rafae\Desktop\CSharp_training\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\rafae\Desktop\CSharp_training\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\rafae\Desktop\CSharp_training\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\CSharp_training\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\rafae\Desktop\CSharp_training\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\rafae\Desktop\CSharp_training\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
